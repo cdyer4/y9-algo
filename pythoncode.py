@@ -7,7 +7,4 @@ mynum_output = mynum_int * mynum_int # assign value of math expression to new va
 mynum_str = str(mynum_output) # cast integer to a string for output using print() function
 print("Your answer is " + mynum_str) # output answer to screen using print()
 
->>>name=input("enter your name:")
-enter your name: grian
->>>print(name)
 
